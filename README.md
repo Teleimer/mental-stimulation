@@ -21,7 +21,7 @@ Tech Stack
 * Interface engagement through hand-worn ring with rollerball (upcoming) to facilitate drilling of knowledge without
 needing to look at phone. 
 
-Concepts: Object-Oriented Programming (OOP), x86 Assembly fundamentals (memory mapping and register management).
+* Concepts: Object-Oriented Programming (OOP)
 
 Current Status: Work in Progress
 
