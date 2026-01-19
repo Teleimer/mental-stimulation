@@ -12,20 +12,21 @@ The project is split into two areas.
 statistical modeling, and algorithmic logic.
 
 Tech Stack
-Frontend: SwiftUI (iOS)
+* Frontend: SwiftUI (iOS)
 
-Logic/Backend Research: Python 3.12 (Statistics & Data Modeling, Up)
+* Logic/Backend Research: Python 3.12 (Statistics & Data Modeling, Up)
 
-AI Integration: Gemini Pro API (Upcoming), for optional voice analysis to grade answers
+* AI Integration: Gemini Pro API (Upcoming), for optional voice analysis to grade answers
 
-Interface engagement through hand-worn ring with rollerball (upcoming) to facilitate drilling of knowledge without
+* Interface engagement through hand-worn ring with rollerball (upcoming) to facilitate drilling of knowledge without
 needing to look at phone. 
 
 Concepts: Object-Oriented Programming (OOP), x86 Assembly fundamentals (memory mapping and register management).
 
 Current Status: Work in Progress
-This project is an active portfolio piece. I am currently building out the remainder of the drill logic in python.
-Actively working on implementing front-end development through SWIFT.
+
+* This project is an active portfolio piece. I am currently building out the remainder of the drill logic in python.
+* Actively working on implementing front-end development through SWIFT.
 
 Recent Milestones:
 * Defined core Flashcard and Deck data models in Python.
