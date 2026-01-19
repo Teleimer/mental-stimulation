@@ -6,9 +6,9 @@ retention through specialized study algorithms.
 
 The project is split into two areas.
 
-*SwiftUI Application: The primary mobile interface 
+* SwiftUI Application: The primary mobile interface 
 
-*Logic & Architecture: A collection of Python-based modules (developed in Spyder) used to verify data structures, 
+* Logic & Architecture: A collection of Python-based modules (developed in Spyder) used to verify data structures, 
 statistical modeling, and algorithmic logic.
 
 Tech Stack
@@ -30,12 +30,12 @@ Actively working on implementing front-end development through SWIFT.
 Recent Milestones:
 * Defined core Flashcard and Deck data models in Python.
 
-*Established SwiftUI layout for card viewing, deck selection, course selection, and addition of new instances 
+* Established SwiftUI layout for card viewing, deck selection, course selection, and addition of new instances 
 of each.
 
 Upcoming Features:
 * Gemini API integration for analysis of voice inputs to grade responses.
 
-*Statistical dashboard to track learning progress over time.
+* Statistical dashboard to track learning progress over time.
 
-*Alternate engagement with the app through ring-based interaction
+* Alternate engagement with the app through ring-based interaction
